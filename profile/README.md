@@ -1,15 +1,17 @@
-# Awning Website
+# Eatsmarty - Scan Like a Detective, Eat Like a Pro
 
 ## Overview
 
-This project is a dynamic, single-page application developed with Next.js to showcase awning products and services specifically for the London area. The website is designed to offer users a seamless browsing experience with optimized routing, fast load times, and responsive design. Key features include:
+EatSmarty is an innovative platform that puts the power of smart food choices in your hands. With the ability to scan food product barcodes, you can access a world of information about what you eat. Make informed choices, discover additives, and check for dietary preferences like Vegan, Vegetarian, Halal, Kosher, and more.
 
 ## Features
 
-- **Home Page:** A visually engaging homepage introducing the awning services available in London.
-  
-- **Portfolio Section:** Showcasing completed projects and installations.
+- **Barcode Scanning:** Effortlessly scan food product barcodes to get detailed information.
 
-- **Contact Us and About Us:** Providing visitors with company information and contact options.
+- **Additive Insights:** Dive into the world of additives and understand what's in your food.
 
-The project is hosted on GitHub under the awning.london, configured for search engine optimization (SEO), and set up with CDN configurations for enhanced performance.
+- **Dietary Preferences:** Instantly check for dietary badges like Vegan, Vegetarian, Halal, and Kosher.
+
+- **Food Ratings:** Access user-generated ratings and reviews for products.
+
+- **Nutritional Data:** Get comprehensive nutritional information for each product.
